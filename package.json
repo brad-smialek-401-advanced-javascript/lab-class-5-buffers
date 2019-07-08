@@ -17,7 +17,6 @@
   "author": "Brad Smialek",
   "license": "MIT",
   "dependencies": {
-    "jest": "^24.8.0",
     "mongodb-memory-server": "^5.1.5",
     "mongoose": "^5.6.1",
     "supertest": "^4.0.2"
@@ -29,5 +28,9 @@
   "bugs": {
     "url": "https://github.com/brad-smialek-401-advanced-javascript/lab-class-5-buffers/issues"
   },
-  "homepage": "https://github.com/brad-smialek-401-advanced-javascript/lab-class-5-buffers#readme"
+  "homepage": "https://github.com/brad-smialek-401-advanced-javascript/lab-class-5-buffers#readme",
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "jest": "^24.8.0"
+  }
 }
