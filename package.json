@@ -2,7 +2,7 @@
   "name": "models",
   "version": "1.0.0",
   "description": "# LAB - 5",
-  "main": "players-schema.js",
+  "main": "categories-schema.js",
   "scripts": {
     "start": "node index.js",
     "lint": "eslint **/*.js",

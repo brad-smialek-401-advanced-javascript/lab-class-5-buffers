@@ -1,10 +1,10 @@
 'use strict';
 
 // Where is our schema defined?
-const schema = require('./categories-schema.js');
+const schema = require('./products-schema.js');
 // How do we get it in here so we can run methods on it?
 
-class Categories {
+class Products {
 
   constructor() {
   }
@@ -37,4 +37,4 @@ class Categories {
 
 }
 
-module.exports = Categories;
+module.exports = Products;
